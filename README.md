@@ -1,0 +1,2 @@
+# kuruskal-tree
+abaaba
